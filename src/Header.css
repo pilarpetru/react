@@ -1,0 +1,26 @@
+#cab {
+    height: 10vh;
+    background-color: rgb(45, 68, 197);
+    padding-bottom: 20px;
+    display: grid;
+    grid-template-columns: "33% 34% 33%";
+    justify-items: center;
+    align-items: center;
+}
+
+/*si ponemos en cab justify-content space-between es lo que piden*/
+#titulo {
+    color: white;
+    text-shadow: 5px 5px 5px black;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    font-family: cursive;
+}
+
+#selector {
+    border-radius: 5px;
+
+    grid-column-start: 3;
+    grid-column-end: 4;
+
+}

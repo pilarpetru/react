@@ -1,0 +1,50 @@
+.home {
+    text-decoration: none;
+    font-weight: 600;
+    color: #000000;
+    background-color: transparent;
+    padding-left: 10px;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+    font-family: cursive;
+}
+
+.home:hover {
+    background-color: #818794;
+    transform: scale(1.5);
+}
+
+.tictactoeh {
+    font-weight: 600;
+    color: #000000;
+    background-color: transparent;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+    font-family: cursive;
+}
+
+.tictactoeh:hover {
+    background-color: #818794;
+    transform: scale(1.5);
+}
+
+.quizh {
+    font-weight: 600;
+    color: #000000;
+    background-color: transparent;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+    font-family: cursive;
+}
+
+
+.quizh:hover {
+    background-color: #818794;
+    transform: scale(1.5);
+}

@@ -1,0 +1,142 @@
+.Quiz {
+    text-align: center;
+}
+
+#headerQuiz {
+    height: 8vh;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    display: grid;
+    justify-items: left;
+    align-items: center;
+}
+
+#checkCircle {
+    width: 10vh;
+}
+
+#juegoQuiz {
+    font-family: "Times New Roman", Times, serif;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.Game {
+    background-color: rgb(189, 184, 184);
+    padding: 20px;
+}
+
+.Tempo {
+    font-family: sans-serif;
+    text-align: right;
+    padding-right: 5vh;
+}
+
+#question {
+    background-color: white;
+}
+
+.Question {
+    display: block;
+    padding: 10px;
+    overflow: auto;
+}
+
+#image2 {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 20px;
+    max-width: 400px;
+    max-height: 350px;
+    float: left;
+    vertical-align: middle;
+}
+
+#image2:hover {
+    box-shadow: 0 0 50px 1px black;
+    transform: scaleX(-1);
+}
+
+#pquestion {
+    padding: 5%;
+}
+
+#ques1 {
+    font-family: "Trebuchet MS";
+    color: rgb(9, 179, 65);
+}
+
+#ques2 {
+    color: rgb(18, 107, 37);
+    font-weight: 900;
+}
+
+#input {
+    border-color: rgb(18, 107, 37);
+    border-radius: 0.2rem;
+    width: 50%;
+    background-color: rgb(183, 252, 206);
+}
+
+#input:hover {
+    box-shadow: 0 0 5px 1px rgb(53, 53, 53);
+}
+
+.Author {
+    overflow: auto;
+}
+
+#authorImg {
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    max-width: 75px;
+    max-height: 75px;
+    float: right;
+    clear: both;
+}
+
+#author1 {
+    float: right;
+    white-space: nowrap;
+    overflow: auto;
+    clear: both;
+
+}
+#authorUser {
+    font-family: cursive;
+    padding-top: 5px;
+    padding-right: 5px;
+}
+
+#index {
+    font-family: cursive;
+    text-decoration: none;
+    font-weight: 400;
+    color: #000000;
+    background-color: white;
+    padding-left: 10px;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+}
+
+#botones {
+    font-family: cursive;
+    text-decoration: none;
+    font-weight: 400;
+    color: #000000;
+    background-color: white;
+    padding-left: 10px;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+}
+
+.Score {
+    font-family: cursive;
+    color: rgb(45, 103, 211);
+    font-weight: 600;
+    text-shadow: 2px 2px 2px black;
+}

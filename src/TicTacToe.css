@@ -1,0 +1,44 @@
+.T{
+    
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    text-align:justify;
+    font-family: cursive;
+}
+
+
+#value{
+
+    text-decoration:none;
+    font-weight: 600;
+    color:#000000;
+    background-color: transparent;
+    padding-left:10px;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:35px;
+    font-family: cursive;
+}
+
+#value:hover{
+    background-color: #818794;
+    transform: scale(1.5);
+}
+
+#Reset{
+
+    text-decoration:none;
+    font-weight: 600;
+    color:#000000;
+    background-color: transparent;
+    padding-left:10px;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius:35px;
+    font-family: cursive;
+
+
+}
