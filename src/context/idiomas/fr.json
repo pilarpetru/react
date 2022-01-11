@@ -1,0 +1,22 @@
+{
+    "myGames": "Mes jeux",
+    "welcome": "Bienvenue sur la page d'accueil des mini-jeux React.",
+    "explanation": "Sur cette page, vous pouvez jouer à différents jeux.",
+    "click": "Cliquez sur l'onglet du jeu auquel vous voulez jouer",
+    "photo": "/images/imagenFR.jpeg",
+    
+    "turn": "C'est à qui de jouer?",
+    "turnOf": "Il est maintenant temps pour le ",
+    "moves": "Nombre de mouvements: ",
+    "reset": "Réinitialiser",
+    
+    "headerQuiz": "Jeu de QUIZ",
+    "author": "Monsieur-Tout-le-Monde",
+    "score": "Ton score",
+    "anterior": "Précédent",
+    "siguiente": "Suivant",
+    "submit": "Envoyer",
+    "input": "Réponse",
+    "question": "Question",
+    "created": "Créé par: "
+}

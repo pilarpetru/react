@@ -1,0 +1,22 @@
+{
+    "myGames": "Meine Spiele",
+    "welcome": "Willkommen auf der React-Minispiele-Homepage.",
+    "explanation": "Auf dieser Seite können Sie verschiedene Spiele spielen.",
+    "click": "Klicken Sie auf die Registerkarte des Spiels, das Sie spiele möchten",
+    "photo": "/images/imagenDE.jpg",
+    
+    "turn": "Wer ist dran?",
+    "turnOf": "Jetzt liegt es an ",
+    "moves": "Anzahl der Bewegungen: ",
+    "reset": "Zurücksetzen",
+    
+    "headerQuiz": "QUIZ-Spiel",
+    "author": "Max Mustermann",
+    "score": "Ihr Ergebnis",
+    "anterior": "Vorherig",
+    "siguiente": "Nächste",
+    "submit": "Einreichen",
+    "input": "Antwort",
+    "question": "Frage",
+    "created": "Erstellt von: "
+}

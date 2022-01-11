@@ -1,0 +1,22 @@
+{
+    "myGames": "My games",
+    "welcome": "Welcome to the main page of React mini-games.",
+    "explanation": "In this page you will be able to play different games.",
+    "click": "Click on the tab of the game that you want to play",
+    "photo": "/images/imagenEN.jpeg",
+    
+    "turn": "Who's next?",
+    "turnOf": "Now it's up to ",
+    "moves": "Number of moves: ",
+    "reset": "Reset",
+    
+    "headerQuiz": "QUIZ Game",
+    "author": "John Doe",
+    "score": "Your score",
+    "anterior": "Previous",
+    "siguiente": "Next",
+    "submit": "Submit",
+    "input": "Answer",
+    "question": "Question",
+    "created": "Created by: "
+}

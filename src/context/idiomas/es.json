@@ -1,0 +1,22 @@
+{
+    "myGames": "Mis juegos",
+    "welcome": "Bienvenido a la página principal de minijuegos en React.",
+    "explanation": "En esta página podrás jugar a diferentes juegos.",
+    "click": "Haz click en la pestaña del juego al que quieras jugar",
+    "photo": "/images/imagenES.jpg",
+    
+    "turn": "¿A quién le toca ahora?",
+    "turnOf": "Ahora le toca a ",
+    "moves": "Número de movimientos: ",
+    "reset": "Resetear",
+
+    "headerQuiz": "Juego QUIZ",
+    "author": "Anónimo",
+    "score": "Tu puntuación",
+    "anterior": "Anterior",
+    "siguiente": "Siguiente",
+    "submit": "Entregar",
+    "input": "Respuesta",
+    "question": "Pregunta",
+    "created": "Creado por: "
+}
